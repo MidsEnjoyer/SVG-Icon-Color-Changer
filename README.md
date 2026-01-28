@@ -1,4 +1,4 @@
-[ ![⬇️ Download Icon Color Changer](https://github.com/MidsEnjoyer/SVG-Icon-Color-Changer/releases/download/v1.0.0/Icon_Color_Changer.exe)
+[⬇️ Download Icon Color Changer](https://github.com/MidsEnjoyer/SVG-Icon-Color-Changer/releases/download/v1.0.0/Icon_Color_Changer.exe)
 
 
 
