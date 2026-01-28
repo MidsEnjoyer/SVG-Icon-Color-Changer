@@ -1,3 +1,7 @@
+[ ![⬇️ Download Icon Color Changer](https://github.com/MidsEnjoyer/SVG-Icon-Color-Changer/releases/download/v1.0.0/Icon_Color_Changer.exe)
+
+
+
 🎨 SVG Icon Color Changer
 A modern, lightweight Windows 11 utility built with Python and CustomTkinter. This tool allows you to batch-recolor thousands of SVG icons in seconds while maintaining a clean, native OS aesthetic.
 
