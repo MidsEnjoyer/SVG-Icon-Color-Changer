@@ -14,7 +14,7 @@ Portable Executable: Use the standalone .exe without needing to install Python o
 I downloaded all of the Tabler Icons and wanted to make them different colors!
 
 📸 Screenshots
-(Tip: Take a screenshot of your app and the "Done!" window, upload them to GitHub, and link them here) ![Main Window](path/to/your/screenshot1.png) ![Success Popup]([path/to/your/screenshot2.png](https://github.com/MidsEnjoyer/SVG-Icon-Color-Changer/blob/main/SVG%20Icon%20Color%20Changer%20Done%20Popup%20Window.png))
+(Tip: Take a screenshot of your app and the "Done!" window, upload them to GitHub, and link them here) ![Main Window](https://github.com/MidsEnjoyer/SVG-Icon-Color-Changer/blob/main/SVG%20Icon%20Color%20Changer%20Window.png) ![Success Popup](https://github.com/MidsEnjoyer/SVG-Icon-Color-Changer/blob/main/SVG%20Icon%20Color%20Changer%20Done%20Popup%20Window.png)
 
 📦 Installation & Usage
 For Users
