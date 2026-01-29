@@ -20,7 +20,6 @@ I downloaded all of the Tabler Icons and wanted to make them different colors!
 📸 Screenshots
 
 ![Main Window](https://github.com/MidsEnjoyer/SVG-Icon-Color-Changer/blob/main/SVG%20Icon%20Color%20Changer%20Window.png)
-![Success Popup](https://github.com/MidsEnjoyer/SVG-Icon-Color-Changer/blob/main/SVG%20Icon%20Color%20Changer%20Done%20Popup%20Window.png)
 
 📦 Installation & Usage
 For Users
